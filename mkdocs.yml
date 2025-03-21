@@ -1,0 +1,42 @@
+# Project Information
+site_name: AlgoTemplate
+site_description: AlgoTemplate 是一个程序设计竞赛中 C++,Java,Python 语言的算法模板库。
+site_author: ShallowDream
+
+theme:
+  name: material
+  features:
+  - navigation.tabs  # 启用顶部导航栏（标签页形式）
+  - navigation.top    # 启用顶部导航栏（可选）
+  language: zh
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+# Copyright
+copyright: 'Copyright &copy; 2025 - 2025 ShallowDream'
+
+# Contents
+nav:
+  - 简介:
+    - 一切的起点: index.md
+  - 基础算法:
+    - 前缀和与差分: base/prefix_difference.md
+    - 二分: base/binary_search.md
+
+  # - 数据结构:
+  
+  # - 搜索:
+  
+  # - 动态规划:
+  
+  # - 数学:
+  
+  # - 字符串:
+  
+  # - 图论:
+  
+  # - 计算几何:
