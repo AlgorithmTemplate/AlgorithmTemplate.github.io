@@ -14,16 +14,17 @@ theme:
   language: zh
   palette:
   - primary: white
-  
     
-
-
 markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
   - admonition
   - pymdownx.details
+  
 # Copyright
 copyright: 'Copyright &copy; 2025 - 2025 AlgoTeamplate Team'
 
@@ -86,3 +87,7 @@ nav:
     - 二分图: graph/bipartite_graph.md
   - 计算几何:
     - 计算几何部分简介: geometry/index.md
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
