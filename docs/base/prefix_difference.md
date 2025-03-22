@@ -354,3 +354,12 @@
                 print(b[i][j], end=" ")
             print()
         ```
+## 练习题单
+
+[蓝桥OJ:求和](https://www.lanqiao.cn/problems/2080/learning)
+[蓝桥OJ:区间次方和](https://www.lanqiao.cn/problems/3382/learning)
+[蓝桥OJ:子串简写](https://www.lanqiao.cn/problems/3514/learning)
+[蓝桥OJ:信赖店铺](https://www.lanqiao.cn/problems/3646/learning/)
+[acwing:增减序列](https://www.acwing.com/problem/content/102/)
+[蓝桥OJ:棋盘](https://www.lanqiao.cn/problems/3533/learning)
+[洛谷:领地选择](https://www.luogu.com.cn/problem/P2004)
