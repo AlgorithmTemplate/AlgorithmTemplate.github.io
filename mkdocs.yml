@@ -3,6 +3,9 @@ site_name: AlgoTemplate
 site_description: AlgoTemplate 是一个程序设计竞赛中 C++,Java,Python 语言的算法模板库。
 site_author: AlgoTemplate Team
 
+repo_name: AlgoTemplate
+repo_url: https://github.com/AlgorithmTemplate/AlgorithmTemplate.github.io
+
 theme:
   name: material
   features:
@@ -10,7 +13,10 @@ theme:
   - navigation.top    # 启用顶部导航栏（可选）
   language: zh
   palette:
-    primary: white
+  - primary: white
+  
+    
+
 
 markdown_extensions:
   - pymdownx.superfences
@@ -32,7 +38,7 @@ nav:
 
   - 数据结构:
     - 数据结构部分简介: data_structure/index.md
-    
+
   - 搜索:
     - 搜索部分简介: search/index.md
   - 动态规划:
