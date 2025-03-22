@@ -25,7 +25,7 @@ markdown_extensions:
   - admonition
   - pymdownx.details
 # Copyright
-copyright: 'Copyright &copy; 2025 - 2025 ShallowDream'
+copyright: 'Copyright &copy; 2025 - 2025 AlgoTeamplate Team'
 
 # Contents
 nav:
@@ -35,19 +35,54 @@ nav:
     - 基础算法部分简介: base/index.md
     - 前缀和与差分: base/prefix_difference.md
     - 二分: base/binary_search.md
-
+    - 双指针: base/two_pointer.md
+    - 位运算: base/bit_operation.md
+    - 排序: base/sort.md
+    - 离散化: base/discretization.md
+    - 高精度: base/high_precision.md
+    - stl: base/stl.md
   - 数据结构:
     - 数据结构部分简介: data_structure/index.md
-
+    - 栈: data_structure/stack.md
+    - 队列: data_structure/queue.md
+    - 链表: data_structure/linked_list.md
+    - 哈希表: data_structure/hash_table.md
+    - 堆: data_structure/heap.md
+    - 并查集: data_structure/disjoint_set.md
+    - 树状数组: data_structure/binary_indexed_tree.md
+    - 线段树: data_structure/segment_tree.md
   - 搜索:
     - 搜索部分简介: search/index.md
+    - 回溯: search/backtracking.md
+    - 二进制枚举: search/binary_enumeration.md
+    - 宽度优先搜索: search/bfs.md
   - 动态规划:
     - 动态规划部分简介: dp/index.md
   - 数学:
     - 数学部分简介: math/index.md
+    - 进制转换: math/number_system.md
+    - 快速幂: math/quick_power.md
+    - 数论:
+      - 数论部分简介: math/number_theory/index.md
+      - 约数: math/number_theory/divisor.md
+      - 素数: math/number_theory/prime.md
+      - 素数筛法: math/number_theory/prime_sieve.md
+
   - 字符串:
     - 字符串部分简介: string/index.md
+    - 字符串哈希: string/string_hash.md
+    - kmp: string/kmp.md
+    - manacher: string/manacher.md
+    - 字典树: string/trie.md
+    - ac自动机: string/ac_automaton.md
+    - 后缀数组: string/suffix_array.md
   - 图论:
     - 图论部分简介: graph/index.md
+    - 图的存储: graph/graph_storage.md
+    - 最短路: graph/shortest_path.md
+    - 最小生成树: graph/minimum_spanning_tree.md
+    - 拓扑排序: graph/topological_sort.md
+    - 强连通分量: graph/strongly_connected_component.md
+    - 二分图: graph/bipartite_graph.md
   - 计算几何:
     - 计算几何部分简介: geometry/index.md
