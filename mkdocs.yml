@@ -1,10 +1,11 @@
 # Project Information
 site_name: AlgoTemplate
+site_url: https://algotemplate.github.io/AlgoTemplate/
 site_description: AlgoTemplate 是一个程序设计竞赛中 C++,Java,Python 语言的算法模板库。
 site_author: AlgoTemplate Team
 
 repo_name: AlgoTemplate
-repo_url: https://github.com/AlgorithmTemplate/AlgorithmTemplate.github.io
+repo_url: https://github.com/AlgoTemplate/AlgoTemplate
 
 theme:
   name: material
